@@ -1,0 +1,1 @@
+msgbox "Launcher & Mod Loader ETS2 by fahmiyufrizal@2021" & Chr(13) & Chr(10) & "github.com/fahmiyufrizal",64, "Ngiklan sek...."

@@ -1,0 +1,1 @@
+msgbox "Setting salah, silahkan cek lagi",48, "fahmiyufrizal@2020"
